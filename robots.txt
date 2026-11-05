@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://otclearn.groundlearn.com/sitemap.xml
